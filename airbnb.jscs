@@ -34,10 +34,6 @@
     "disallowArrayDestructuringReturn": true,
     "disallowSpaceBeforeBlockStatements": true,
     "requireParenthesesAroundIIFE": true,
-    "requireSpacesInAnonymousFunctionExpression": {
-        "beforeOpeningRoundBrace": true,
-        "allExcept": ["shorthand"]
-    },
     "requireSpacesInConditionalExpression": true,
     "requireBlocksOnNewline": 1,
     "requireCommaBeforeLineBreak": true,
